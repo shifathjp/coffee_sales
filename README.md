@@ -32,3 +32,6 @@ The dataset includes details on orders, products, and customers, providing a com
 
 Feel free to fork this repository and contribute by submitting pull requests.
 
+## License
+This project is licensed under the MIT License.
+
